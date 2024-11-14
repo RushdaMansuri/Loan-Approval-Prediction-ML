@@ -1,1 +1,1 @@
-# Loan-Approval-Prediction-ML
+# Loan Approval Prediction using Machine Learning
